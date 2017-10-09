@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">currentlocationexample</string>
+    <string name="coordinates">Coordinates:</string>
+</resources>
